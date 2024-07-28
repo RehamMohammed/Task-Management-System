@@ -1,6 +1,6 @@
-package com.exercise.task_management_system.dao;
+package banquemisr.challenge05.dao;
 
-import com.exercise.task_management_system.entity.Task;
+import banquemisr.challenge05.entity.Task;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

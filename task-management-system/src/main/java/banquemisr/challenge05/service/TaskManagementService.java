@@ -1,15 +1,12 @@
-package com.exercise.task_management_system.service;
+package banquemisr.challenge05.service;
 
-import com.exercise.task_management_system.dao.TaskDao;
-import com.exercise.task_management_system.entity.Task;
-import com.exercise.task_management_system.model.TaskModel;
+import banquemisr.challenge05.entity.Task;
+import banquemisr.challenge05.model.TaskModel;
+import banquemisr.challenge05.dao.TaskDao;
 import jakarta.persistence.EntityNotFoundException;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.springframework.web.bind.annotation.ResponseBody;
 
 import java.time.LocalDate;
-import java.util.Optional;
 
 @Service
 public class TaskManagementService {

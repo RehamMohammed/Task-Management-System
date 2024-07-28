@@ -1,4 +1,4 @@
-package com.exercise.task_management_system.model;
+package banquemisr.challenge05.model;
 
 public enum TaskStatus {
     TODO,

@@ -1,6 +1,6 @@
-package com.exercise.task_management_system.entity;
+package banquemisr.challenge05.entity;
 
-import com.exercise.task_management_system.model.TaskStatus;
+import banquemisr.challenge05.model.TaskStatus;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;

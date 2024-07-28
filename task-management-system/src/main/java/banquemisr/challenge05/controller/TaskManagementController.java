@@ -1,7 +1,7 @@
-package com.exercise.task_management_system.controller;
-import com.exercise.task_management_system.entity.Task;
-import com.exercise.task_management_system.model.TaskModel;
-import com.exercise.task_management_system.service.TaskManagementService;
+package banquemisr.challenge05.controller;
+import banquemisr.challenge05.entity.Task;
+import banquemisr.challenge05.model.TaskModel;
+import banquemisr.challenge05.service.TaskManagementService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

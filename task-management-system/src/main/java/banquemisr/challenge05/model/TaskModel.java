@@ -1,4 +1,4 @@
-package com.exercise.task_management_system.model;
+package banquemisr.challenge05.model;
 
 import lombok.Getter;
 import lombok.Setter;
